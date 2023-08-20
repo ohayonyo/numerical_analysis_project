@@ -1,3 +1,3 @@
 # numerical_analysis_project
 
-# Yoad Ohayon
+## written by Yoad Ohayon
