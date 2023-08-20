@@ -1,5 +1,5 @@
 # numerical_analysis_project
 
-  **this section includes
+  **this section includes**
 
 ## written by Yoad Ohayon
