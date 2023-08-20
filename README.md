@@ -6,12 +6,11 @@ This repository contains a solution for an efficient interpolation task. The obj
 ## Solution
 The implemented solution utilizes the Cubic Bezier method and Tomas Algorithm. These techniques allow for effective interpolation, enabling accurate estimates of values between data points. The focus was on finding a balance between accuracy and computational efficiency.
 
-### Cubic Bezier 
+## Cubic Bezier 
 ![Bézier_2_big](https://github.com/ohayonyo/numerical_analysis_project/assets/62948137/7498090b-6a3a-49f5-8fc6-c28bbc059be3)
 
-### Tomas Algorithm
+## Tomas Algorithm
 <img width="298" alt="image" src="https://github.com/ohayonyo/numerical_analysis_project/assets/62948137/20fc597f-a1ff-4aef-a82a-f7ea233d7a5e">
-
 
 
 # Assignment2: Efficient Intersection points using Regula falsi. 
