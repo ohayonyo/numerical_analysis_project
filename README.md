@@ -1,4 +1,4 @@
-# numerical_analysis_project
+# Numerical analysis methods
 
 
 
