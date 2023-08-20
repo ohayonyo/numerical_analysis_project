@@ -9,8 +9,9 @@ This repository contains a solution for an efficient interpolation task. The obj
 The implemented solution utilizes the Cubic Bezier method and Tomas Algorithm. These techniques allow for effective interpolation, enabling accurate estimates of values between data points. The focus was on finding a balance between accuracy and computational efficiency.
 
 ## Assignment2: Efficient Intersection points using Regula falsi 
+### preview
 In this repository, I present a solution to the Assignment2 task, which involved finding intersection points between two functions. The assignment required the implementation of the Assignment2.intersections() function, following the provided pydoc instructions.
-
+### solution
 To solve this task, I used the Regula Falsi method. This numerical technique iteratively refines estimates of the intersection points by narrowing down the intervals where the functions' values change signs. By employing Regula Falsi, the solution is able to efficiently approximate intersection points while satisfying the provided conditions.
 
 ## written by Yoad Ohayon
