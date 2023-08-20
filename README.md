@@ -7,10 +7,13 @@ This repository contains a solution for an efficient interpolation task. The obj
 The implemented solution utilizes the Cubic Bezier method and Tomas Algorithm. These techniques allow for effective interpolation, enabling accurate estimates of values between data points. The focus was on finding a balance between accuracy and computational efficiency.
 
 <table>
-  <tr style="text-align: center;">
+  <tr>
     <td>
-      <h2>Cubic Bezier</h2>
+      <div>
+        <h2>Cubic Bezier</h2>
       <img src="https://github.com/ohayonyo/numerical_analysis_project/assets/62948137/7498090b-6a3a-49f5-8fc6-c28bbc059be3" alt="Cubic Bezier Image" />
+      </div>
+      
     </td>
     <td>
       <h2>Tomas Algorithm</h2>
