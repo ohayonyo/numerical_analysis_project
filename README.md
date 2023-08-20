@@ -15,4 +15,7 @@ In this repository, I present a solution to the Assignment2 task, which involved
 ## solution
 To solve this task, I used the Regula Falsi method. This numerical technique iteratively refines estimates of the intersection points by narrowing down the intervals where the functions' values change signs. By employing Regula Falsi, the solution is able to efficiently approximate intersection points while satisfying the provided conditions.
 
+![regula](https://github.com/ohayonyo/numerical_analysis_project/assets/62948137/5841e5c4-1dc2-4e45-9ce6-7e45ed07be83)
+
+
 ## written by Yoad Ohayon
