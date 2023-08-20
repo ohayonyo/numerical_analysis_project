@@ -8,7 +8,7 @@ The implemented solution utilizes the Cubic Bezier method and Tomas Algorithm. T
 
 <table>
   <tr>
-    <td>
+    <td style="text-align: center;">
       <h2>Cubic Bezier</h2>
       <img src="https://github.com/ohayonyo/numerical_analysis_project/assets/62948137/7498090b-6a3a-49f5-8fc6-c28bbc059be3" alt="Cubic Bezier Image" />
     </td>
