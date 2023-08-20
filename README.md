@@ -1,5 +1,5 @@
 # numerical_analysis_project
 
-  *this section includes*
+This is some **bold text** and this is also __bold text__.
 
 ## written by Yoad Ohayon
