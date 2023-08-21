@@ -4,14 +4,15 @@
 This repository contains a solution for an efficient interpolation task. The objective was to develop a function, Assignment1.interpolate(), that performs interpolation of a given function f within a specified range using a specific number of points. The goal was to achieve accurate interpolation while optimizing for efficiency.
 
 ## Solution
-The implemented solution utilizes the Cubic Bezier method and Tomas Algorithm. These techniques allow for effective interpolation, enabling accurate estimates of values between data points. The focus was on finding a balance between accuracy and computational efficiency.
+The implemented solution utilizes the <a href="https://en.wikipedia.org/wiki/Bézier_curve">
+        Cubic Bezier method
+      </a> and <a href="https://en.wikipedia.org/wiki/Tridiagonal_matrix_algorithm">
+        Tomas Algorithm
+      </a>. These techniques allow for effective interpolation, enabling accurate estimates of values between data points. The focus was on finding a balance between accuracy and computational efficiency.
 
 <table>
   <tr>
     <td>
-      <a href="https://en.wikipedia.org/wiki/Bézier_curve">
-        link
-      </a>
       <h2>Cubic Bezier</h2>
       <img src="https://github.com/ohayonyo/numerical_analysis_project/assets/62948137/7498090b-6a3a-49f5-8fc6-c28bbc059be3" alt="Cubic Bezier          Image" />
     </td>
