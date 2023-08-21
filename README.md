@@ -9,7 +9,7 @@ The implemented solution utilizes the Cubic Bezier method and Tomas Algorithm. T
 <table>
   <tr>
     <td>
-      [[doc:introduction](https://en.wikipedia.org/wiki/B%C3%A9zier_curve)"](https://en.wikipedia.org/wiki/B%C3%A9zier_curve)
+      [[doc:introduction](cubic)"](https://en.wikipedia.org/wiki/B%C3%A9zier_curve)
       <h2>Cubic Bezier</h2>
       <img src="https://github.com/ohayonyo/numerical_analysis_project/assets/62948137/7498090b-6a3a-49f5-8fc6-c28bbc059be3" alt="Cubic Bezier          Image" />
     </td>
