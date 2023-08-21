@@ -9,7 +9,7 @@ The implemented solution utilizes the Cubic Bezier method and Tomas Algorithm. T
 <table>
   <tr>
     <td>
-      <a href="en.wikipedia.org/wiki/Bézier_curve">
+      <a href="https://en.wikipedia.org/wiki/Bézier_curve">
         link
       </a>
       <h2>Cubic Bezier</h2>
